@@ -24,7 +24,7 @@ Refer [this](https://www.freecodecamp.org/news/these-are-the-best-free-courses-t
 
 ## Books on DSA
 
-* Introduction to Algorithms - CLRS
+* Introduction to Algorithms - CLRS (Cormen, Leiserson, Rivest, Stein)
 * The Algorithm Design Manual - Steve S. Skiena
 * Algorithms - Robert Sedgewick and Kevin Wayne
 * Cracking the Coding Interview - Gayle Laakmann McDowell
@@ -36,6 +36,7 @@ Refer [this](https://www.freecodecamp.org/news/these-are-the-best-free-courses-t
 
 * C++ Primer - Stanley Lippman, Josée Lajoie, and Barbara E. Moo
 * Programming: Principles and Practises using C++ - Bjarne Stroustrup
+* C Programming: Book by Brian Kernighan and Dennis Ritchie
 
 **For students with previous C++ experience**
 
